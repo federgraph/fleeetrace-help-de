@@ -1,6 +1,12 @@
 _site/
+_sass/
 .sass-cache/
 .jekyll-cache/
-.jekyll-metadata
+.jekyll-metadata/
 .vscode/spellright.dict
 .vscode/settings.json
+jekyll-theme-cayman.gemspec
+assets/css/style.scss
+Gemfile
+Gemfile.lock
+*.gem

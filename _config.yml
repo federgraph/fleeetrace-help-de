@@ -1,5 +1,7 @@
+title: Hilfe für Projekt FR
+
+show_downloads: false
+
 theme: jekyll-theme-cayman
 
-header_pages:
-  - applications/FR01.md
-  - about.md
+gem "github-pages", group: :jekyll_plugins
