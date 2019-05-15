@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+
+header_pages:
+  - applications/FR01.md
+  - about.md
