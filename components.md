@@ -85,17 +85,17 @@ Timing Aufgaben eingesetzt werden.</dd>
 <dd>Dynamische Website, ASP.NET MVC, liefert FRIA-Client, holt archivierte Daten
 für FRIA aus der Datenbank.</dd>
 
-<dt>FRWA02</dt>
+w<dt>FRWA02</dt>
 <dd>Statische Website, liefert FRIA-Client, liest xml für FRIA vom Dateisystem.</dd>
 
-<dt><a href="silverligtht/FRIA03">FRIA03</a></dt>
+<dt><a href="silverlight/FRIA03">FRIA03</a></dt>
 <dd>Silverlight RIA, zeigt Eventpage, manuell verbunden mit Result Server.</dd>
 
-<dt><a href="silverligtht/FRIA05">FRIA05</a></dt>
+<dt><a href="silverlight/FRIA05">FRIA05</a></dt>
 <dd>Silverlight RIA, mit Eventpage, ausgelegt für das Herunterladen statischer
 Daten. Kann in normale Website integriert werden.</dd>
 
-<dt><a href="silverligtht/FRIA11">FRIA11</a></dt>
+<dt><a href="silverlight/FRIA11">FRIA11</a></dt>
 <dd>Silverlight RIA, zeigt Race Page, manuell verbunden mit Result Server.</dd>
 
 </dl>
