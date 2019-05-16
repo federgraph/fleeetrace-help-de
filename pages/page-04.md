@@ -684,5 +684,4 @@ eine Verbindung zur Server Bridge herstellen und darüber Daten empfangen und
 eventuell auch Daten senden.</dd>
 </dl>
 
-[Einsatzfälle](page-05)
-
+[Einsatzfälle](page-05.html)

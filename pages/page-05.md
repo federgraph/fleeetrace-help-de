@@ -266,3 +266,4 @@ Die Infrastruktur ist jetzt da, und die Geräte gibt es auch.
 Ich empfehle einen Node.js proxy server in Verbindung mit FR69.
 Als Browser Client käme FR05I in Frage, siehe GitHub repo.
 
+[Übersicht FR](../applications/FR.html)

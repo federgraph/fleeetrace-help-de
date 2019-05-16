@@ -57,4 +57,4 @@ Sie brauchen nur das Programm selbst zu kopieren, es wird normalerweise keine Da
 Der Client auf der Ausgangsseite kann auch eine normale Desktop Anwendung sein oder ein SPA Client, welcher im Browser läuft. 
 Es handelt sich bei den Fleetrace Clienten um rechnende Anwendungen. 
 
-[weiter](page-02)
+[weiter](page-02.html)

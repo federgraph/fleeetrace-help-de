@@ -100,4 +100,4 @@ FR69 kann anstellen von FR97 benutzt werden,
 es ist immer möglich mit Kanonen nach Spatzen zu schießen.
 Warum nicht Node.js oder Asp.Net?
 
-[Feature Matrix](page-04)
+[Feature Matrix](page-04.html)

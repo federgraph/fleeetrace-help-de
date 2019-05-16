@@ -38,5 +38,5 @@ Eine Idee ist, dass Sie GitHub Pages benutzen um Ergebnisse für die Veranstaltu
 
 Hosting für statische Ergebnisse sollte heute kein Problem mehr sein.
 
-[Verfügbare Programme](page-03)
+[Verfügbare Programme](page-03.html)
 

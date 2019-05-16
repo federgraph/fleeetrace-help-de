@@ -61,4 +61,4 @@ eigenen Ressourcen wie PDA, Handy, Notebook, LAN oder Internetzugang.
   nicht unverändert für die offizielle Auswertung eingesetzt werden, obwohl die Ergebnisse korrekt berechnet werden.
 - Es ist damit zu rechnen, dass Anwender Einsatzmöglichkeiten für das Framework finden.
 
-Zurück zu den [Dokumenten](doc-index).
+Zurück zu den [Dokumenten](doc-index.html).
