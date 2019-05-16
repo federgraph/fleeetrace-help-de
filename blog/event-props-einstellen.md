@@ -50,17 +50,17 @@ EP.UseCompactFormat = True
 - InputMode sollte auf Strict stehen, wenn die eingegebenen Informationen konsistent sind (eindeutig und/oder fortlaufend), also normalerweise immer.
 - RaceLayout auf Finish zu stellen ist die richtige Wahl, wenn Sie Daten eingeben und die Zielpositionen sehen wollen, und nicht die Punkte.
   Kann vom Programm aus geändert werden.
-- NameSchema NX ist Standard und fï¿½r neue Dateien zu empfehlen.
+- NameSchema NX ist Standard und für neue Dateien zu empfehlen.
 - FieldMap auf N3 bedeutet, dass das Namensfeld N3 auf die Spalte DisplayName abgebildet wird.
-- FieldCaptions enthält die Überschriften der Namen Spalten.
+- FieldCaptions enthält die Überschriften der Namens-Spalten.
 - FieldCount auf 3 bedeutet, dass 3 Spalten gespeichert werden sollen.
 - NameFieldCount auf 3 bedeutet, dass drei Spalten in der Event-Tabelle angezeigt werden (kann weniger sein).
 - NameFieldOrder 123 bedeutet, dass die drei Spalten in dieser Reihenfolge erscheinen. Es werden niemals mehr als 9 Spalten angezeigt.
 - UseFleets muss hier auf True stehen, weil es ein MedalRace gibt.
 - TargetFleetSize auf 20 entspricht StartlistCount. Nur im MedalRace starten nicht alle.
 - FirstFinalRace auf 11 kennzeichnet hier das MedalRace. Das MedalRace ist das letzte Race nach Abschluss der Qualifikationsrunde, die hier 10 Rennen enthält.
-- IsTimed auf False besagt, dass keine Zeiten gespeichert werden. FR01 speichert keine Zeiten.
-- UseCompactFormat auf True ist meistens richtig, weil sich die Daten im kompakten Textformat am besten mit dem Texteditor bearbeiten lassen.
+- IsTimed auf False besagt, dass keine Zeiten gespeichert werden. FR01 kann gar keine Zeiten speichern, der Race Teil wurde entfernt.
+- UseCompactFormat auf True ist meistens richtig, weil sich die Daten im kompakten Textformat mit dem Spreadsheet bearbeiten lassen, und weil weniger Speicher benötigt wird.
 
 Ausgehend von einem guten Beispiel müssen Sie nur folgende Eigenschaften anpassen:
 **StartlistCount**, **TargetFleetSize** und **Name**.

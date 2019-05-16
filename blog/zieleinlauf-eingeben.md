@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: de
-title: Zieleinlauf
+title: Zieleinlauf eingeben
 old_permalink: "http://www.fleetrace.org/blog/2012/06/zieleinlauf-eingeben/"
 ---
 
@@ -46,7 +46,8 @@ Und hier die etwas längere Version:
 1. Jetzt die Leertaste drücken, um eine Nachricht zu generieren, die im unteren Editierfeld angezeigt wird
 1. Die Nachricht im Editierfeld mit dem Send Button senden (intern zum Programm selbst)
 1. Den automatischen Sendemodus aktivieren, mit dem entsprechenden Button
-1. Die nächste Bib selektieren bzw. eine andere Zelle im Timing-Grid auswählen, Nachricht wird automatisch gesendet
+1. Die nächste Bib selektieren bzw. eine andere Zelle im Timing-Grid auswählen, 
+   dann Leertaste oder Enter drücken, die Nachricht wird generiert und automatisch gesendet
 1. Wiederhole die Prozedur bis alle Starter durch sind
 1. Den Age Button ausprobieren, er löscht die Farbmarkierungen im Timing-Grid, dann den unteren Container wieder schließen
 1. Penaltys eingeben nach Bedarf

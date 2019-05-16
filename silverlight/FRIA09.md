@@ -8,10 +8,11 @@ title: FRIA09
 
 # FRIA09
 
+*timing*<br>
 ![FRIA09 screenshot](../images/FRIA09.png)
 
 Jedenfalls ist hier der Timing Tab zu sehen,
-und Tag Race, und Tab Mark, und Tab Bridge.
+und Tag Race, und Tab Mark, und Tab Bridge, alle 4.
 
 Bridge ist nicht oben drüber, sondern hat seinen eigenen Tab.
 

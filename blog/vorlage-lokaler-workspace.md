@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: de
-title: Vorlage für Workspace
+title: Vorlage lokaler Workspace
 old_permalink: "http://www.fleetrace.org/blog/2012/06/vorlage-fuer-lokalen-workspace/"
 ---
 

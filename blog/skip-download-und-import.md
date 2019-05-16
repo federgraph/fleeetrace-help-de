@@ -1,10 +1,10 @@
 ---
 layout: default
 lang: de
-old_title: Skip Download und Import
+title: Skip Download und Import
 ---
 
-# Skip Download und Import
+# Skip Download und Skip Import
 
 Die beiden Flags **Skip Download** und **Skip Import** auf Seite Menu haben Standardwerte,
 die mit dem Modus (Less oder More) verknüpft sind.

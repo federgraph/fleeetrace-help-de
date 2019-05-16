@@ -20,7 +20,6 @@ Dokumentation rund um FR:
 
 Zusätzlich:
 - [FR-XML Schema-Bild](doc-schema-image.html)
-- [Entwicklungsziele](doc-devtargets.html)
 - [FRIA Schnellstart](doc-fria-quick-start.html)
 
 ## Nachrichten

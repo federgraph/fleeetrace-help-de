@@ -59,7 +59,7 @@ lokalen Workspace konfigurieren:
 
 Die Zeile mit der Url sollte im Beispiel etwa so aussehen:
 ```
-* MyLocalWorkspace = C:\FR\Workspace\EventMenuLocal.xml</pre>
+* MyLocalWorkspace = C:\FR\Workspace\EventMenuLocal.xml
 ```
 
 Der * vorn bedeutet, dass Ihr lokaler Workspace editierbar ist.
@@ -74,7 +74,7 @@ So wird das EventMenuLocal.xml angepasst:
 
 So könnten Sie später die Dateien aus Ihrem lokalen Workspace ins Web schieben:
 
-Legen Sie EventMenu.xml als Kopie EventMenuLocal.xml im Workspace-Ordner an. 
+Legen Sie EventMenu.xml als Kopie von EventMenuLocal.xml im Workspace-Ordner an. 
 Nun brauchen Sie in der Kopie nur noch den Pfad anzupassen. Die Pfade der 
 einzelnen Events sind relativ, egal wie viele Events Sie in der Datei auflisten, 
 es sind nur minimale Änderungen notwendig, wenn Sie einen Workspace verpflanzen 

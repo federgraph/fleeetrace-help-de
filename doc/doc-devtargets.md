@@ -4,11 +4,6 @@ lang: de
 title: Produktidee
 ---
 
-```
-Ich warne Sie!
-( Zum Glück wurde das hier nie veröffentlicht. )
-```
-
 # Entwicklungsziele
 
 Da Softwareentwicklung einen zyklischen Verlauf nimmt, gibt es effektiv 
@@ -65,12 +60,5 @@ eigenen Ressourcen wie PDA, Handy, Notebook, LAN oder Internetzugang.
 - Durch die Beschränkung auf die Kernfunktion kann die Software in der Regel 
   nicht unverändert für die offizielle Auswertung eingesetzt werden, obwohl die Ergebnisse korrekt berechnet werden.
 - Es ist damit zu rechnen, dass Anwender Einsatzmöglichkeiten für das Framework finden.
-
-```
-Ich bin geschockt, ist das jetzt schon Neoliberal?
-Träumt der Typ von einem Office in Shanghai?
-
-Wo sind eigentlich die automatischen Tests?
-```
 
 Zurück zu den [Dokumenten](doc-index).

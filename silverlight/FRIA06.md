@@ -8,8 +8,10 @@ title: FRIA06
 
 # FRIA06
 
+*third*<br>
 ![FRIA06 screenshot](../images/FRIA06.png)
 
-Hier sind im Gegensatz zu 05 keine Tabs mehr sichtbar,
-Das Event Menu befindet sich oberhalb dessen, was Seite Event gewesen ist.
-Das Event Menü hat kein Memo mehr, manchmal möchte man ein Memo haben.
+Keine Tabs, wie bei FRIA05.
+Das Event Menu befindet sich oben.
+Das Memo ist unten integriert.
+Die übergeordneten Tabs für Index, Home, Bridge und Silverlight sind wieder da, bzw. noch, es ist Third.

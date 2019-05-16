@@ -8,9 +8,13 @@ title: FRIA11
 
 # FRIA11
 
+*mark*<br>
 ![FRIA11 screenshot](../images/FRIA11.png)
 
 Der nicht unterstrichene Link deutet darauf hin, das es sich hier um den Race Monitor handelt.
+
+Laut Feature Matrix mit Tab Bridge und Tab Mark.
+Also Bridge und Mark, diese beiden Features sind drin, auch wenn ich keine Tabs sehe.
 
 ## Update 2012
 

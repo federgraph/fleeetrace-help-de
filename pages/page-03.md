@@ -62,7 +62,7 @@ Der Race Teil wurde entfernt, der Event Teil ist enthalten.
 
 [FR93](../applications/FR93) ist für die Erzeugung der Daten gedacht.
 
-**Bemerkung 2019**: Für die Eingabe der Ergebnisse über die graphische Oberfläche.
+**Bemerkung 2019**: Mit Eingabe der Ergebnisse über die graphische Oberfläche.
 Danach werden die Ergebnisse über die Zwischenablage entnommen.
 
 ## FR38

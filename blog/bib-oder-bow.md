@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: de
-title: Bib
+title: Bib oder Bow
 old_permalink: "http://www.fleetrace.org/blog/2012/06/bib-oder-bow/"
 ---
 
@@ -47,6 +47,9 @@ sollten Sie in geeigneter Weise in der Stammdatentabelle unterbringen.
 (Die ISAF ID für die Bio-Datenbank gehört auch in die Stammdatentabelle.)
 
 Wenn Sie Zeilen hinzufügen, zu Tabelle Event mit Parameter StartListCount oder Tabelle Entries mit Button Add,
-dann müssen Sie die Schlüsselfelder ausfüllen.
+dann müssen Sie eventuell die Schlüsselfelder ausfüllen (früher was das so).
 Bei der Einrichtung eines neuen Events ist es daher oft einfacher,
 von einem Beispiel auszugehen, wo Einträge nur noch herausgelöscht werden müssen.
+
+**Update 2019**: Beim Hinzufügen von Zeilen werden die Schlüsselfelder mit sinnvollen Vorgabewerten belegt,
+so dass meistens nichts mehr zu tun ist.
