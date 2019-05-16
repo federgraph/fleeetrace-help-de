@@ -101,7 +101,7 @@ Programm, ein Umschalten in den Strict Eingabemodus zu versuchen. Die Listen
 zwischen *.Begin und *.End können theoretisch mit einem Spreadsheet vorbereitet 
 werden. Diese Listen sind hier im kompakten Text-Format angegeben. Mehr zum 
 kompakten Text-Format finden Sie im Artikel 
-über die [Nachrichtenspezifikation](doc-msg-example).
+über die [Nachrichtenspezifikation](doc-msg-example.html).
 
 Die Parameter (Division-Properties) müssen immer ganz oben stehen, so dass 
 sie vor allen anderen Angaben gelesen werden. Unter Verwendung der Parametern 

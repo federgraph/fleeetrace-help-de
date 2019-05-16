@@ -6,9 +6,9 @@ title: Links
 # Links
 
 ## Top
-- [index](index)
-- [components](components)
-- [about](about)
+- [index](index.html)
+- [components](components.html)
+- [about](about.html)
 
 ## Pages
 <ul>

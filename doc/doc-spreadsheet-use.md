@@ -145,7 +145,7 @@ Oder Sie senden die Nachrichten über das Netzwerk mit Hilfe eines der Programme
 Oder Sie fügen die Telegramme in die Text-Datei auf der Festplatte ein. 
 Der Effekt ist immer gleich. 
 Das Programm benutzt den gleichen, robusten Parser zur Auswertung des Inputs. 
-Mehr über die Definition der Telegramme können Sie im Artikel [Nachrichtenbeispiel](doc-msg-example) lesen.
+Mehr über die Definition der Telegramme können Sie im Artikel [Nachrichtenbeispiel](doc-msg-example.html) lesen.
 
 ## Zusammenfassung
 
@@ -159,4 +159,4 @@ und eine Variante wird bei Bedarf austauschbar als Open Source Komponente zur Ve
 Die Implementierung der Scoring-Engine hat eventuell Rückwirkungen auf die Definition und Formatierung der Penaltywerte im Hostprogramm. 
 Die im Artikel gezeigte, prinzipielle Arbeitsweise des Imports der Daten vom Spreadsheet bleibt davon unberührt.
 
-[Zurück](doc-index.html) zu den Dokumenten.
+[Zurück](doc-index.html.html) zu den Dokumenten.

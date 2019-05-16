@@ -17,7 +17,7 @@ im nachfolgenden der Silverlight Client.
 
 ## FR97
 
-Als erstes sollten Sie sich das Paket [FR97](../applications/FR97) *besorgen*, welches folgendes enthält:
+Als erstes sollten Sie sich das Paket [FR97](../applications/FR97.html) *besorgen*, welches folgendes enthält:
 - den Silverlight Client im Ordner ClientBin
 - die Beispieldaten unterhalb von docroot/Results/
 - darin EventMenu.xml, das Verzeichnis für die Beispieldaten
@@ -42,7 +42,7 @@ Wie sie weiter vorgehen, hängt von der Situation ab, die Verwendung von FR93 is
 [FR93](../applications/FR93) ist ein einfach zu benutzendes Programm.
 
 Ein sinnvoller Einsatz ist dadurch gegeben, 
-dass Sie die **Wettkampfdaten** im [Spreadsheet](doc-spreadsheet-use) aufbereiten,
+dass Sie die **Wettkampfdaten** im [Spreadsheet](doc-spreadsheet-use.html) aufbereiten,
 über die Zwischenablage in FR93 einfügen,
 in FR93 kontrollieren/weiterbearbeiten,
 und zum Schluss das **FR-XML** aus FR93 *entnehmen*.
@@ -60,7 +60,7 @@ Die eigentlichen Eventdaten sollten aber jetzt schon perfekt übernommen sein.
 
 ## FR94
 
-[FR94](../applications/FR94) ist gegenüber FR93 noch weiter abgerüstet.
+[FR94](../applications/FR94.html) ist gegenüber FR93 noch weiter abgerüstet.
 
 FR94 hat den Race Teil nicht mehr mit an Bord und kann auch kein Xml erzeugen, aber immer noch Text. 
 Der Silverlight Client kann Text lesen, Xml ist nicht zwingend vorgeschrieben. 

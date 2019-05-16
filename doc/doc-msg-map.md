@@ -182,7 +182,7 @@ Normalerweise wird der Cache mit asynchronen Requests über Punkt E gefüllt.
 So, das wars schon.
 ```
 
-Zurück zu den [Dokumenten](doc-index).
+Zurück zu den [Dokumenten](doc-index.html).
 
 
 

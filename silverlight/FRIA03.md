@@ -13,11 +13,11 @@ title: FRIA03
 
 Hier zu sehen: Seite Event.
 
-Seite Menu fehlt: Diese Variante ist mit mit der Delphi Applikation.
+Seite Menu fehlt: Diese Variante wurde von der Delphi Applikation geliefert.
 Dort gibt es einen aktuellen Event, genau einen. Wir brauchen kein Event Menu.
 
 Aktuell sind wir nicht verbunden, die LED ist Rot, die Aktion Plugin ist enabled.
 Da wir nicht verbunden sind können wir uns auch nicht abmelden oder etwas downloaden.
 
-Wahrscheinlich startet die Anwendung mit dem Standard Event, dem Test Event, der sollte Ihnen bekannt vorkommen.
+Wahrscheinlich wurde die Anwendung gerade gestartet mit dem Standard Event, dem Test Event, der sollte Ihnen bekannt vorkommen.
 Anstatt leer zu starten wird immer mit dem Test Event gestartet.
