@@ -46,7 +46,7 @@ title: Links
 <li><a href="./blog/lokaler-workspace.html">blog-lokaler-workspace</a></li>
 <li><a href="./blog/mehr-oder-weniger.html">blog-mehr-oder-weniger</a></li>
 <li><a href="./blog/mit-excel-arbeiten.html">blog-mit-excel-arbeiten</a></li>
-<li><a href="./blog/neustart.html">blog-Neustart</a></li>
+<li><a href="./blog/neustart.html">blog-neustart</a></li>
 <li><a href="./blog/skip-download-und-import.html">blog-skip-download-und-import</a></li>
 <li><a href="./blog/vorlage-lokaler-workspace.html">blog-vorlage-lokaler-workspace</a></li>
 <li><a href="./blog/warum-500.html">blog-warum-500</a></li>

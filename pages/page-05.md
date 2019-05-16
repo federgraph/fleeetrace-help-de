@@ -9,10 +9,7 @@ title: Einsatzfälle
 Use Cases = Einsatzfälle
 
 ```
-Warum soll Ich eigentlich den 'Markt' vorbereiten, und für wen?
-
-Sie müssen das alles hier mit Humor nehmen, 
-  außer wenn ich rede von Sozialismus.
+Sie müssen das alles hier mit Humor nehmen. 
 ```
 
 ## UC 1
@@ -23,7 +20,7 @@ Bausteine:
 - [FR93](../applications/FR93.html)
 - [FRIA04](../silverlight/FRIA04.html)
 - Web Editor (Visual Studio Code) und FTP Client Programm (FileZilla).
-- statische Website (GitHub Pages)
+- Statische Website (eventuell GitHub Pages)
 
 Mit FR93 erstellen Sie die Text Datei oder Xml Datei für die Ergebnisse. 
 Die Ergebnisse werden mit FileZilla via FTP auf die statische Website hochgeladen. 
@@ -36,7 +33,10 @@ Wenn eine konstante Anzahl von Events angelegt wird, die wiederverwendet werden,
 dann kann das EventMenu.xml unverändert bleiben. 
 Die Aktualisierung eines Events reduziert sich dann auf das Hochladen der jeweiligen Event.xml Datei.
 
-**Update 2019**: Angular ist das neue Silverlight, siehe FR03A1 oder FR03E1.
+Bei Verwendung von GitHub Pages als statische Site benötigen Sie kein FTP Client Programm.
+
+Wie gesagt, Angular ist das neue Silverlight, siehe FR03A1 oder FR03E1.
+Zum Beispiel passen Sie FR03E1 geringfügig an für den Einsatz auf Ihrer Site.
 
 ## UC 2
 
@@ -45,13 +45,10 @@ Die Aktualisierung eines Events reduziert sich dann auf das Hochladen der jeweil
 Bausteine:
 - FR93
 - FR94
-- Web Editor, FTP Client
-- statische Website
+- Web Editor (, FTP Client)
+- (Statische) Website
 
-Es funktioniert im Prinzip genau so wie bei UC 1, 
-nur dass Sie keine Lizenz für den Silverlight Client benötigen.
-
-**Update 2019**: Das mit der Lizenz hat sich sowieso erledigt, wir sind jetzt wieder sozialistisch.
+Es funktioniert im Prinzip genau wie bei UC 1.
 
 ## UC 3
 
@@ -84,7 +81,9 @@ passende EventMenu.xml und die Event.xml Dateien werden auf der anderen Website
 bereitgestellt. Organisieren Sie, dass sich jemand um die Ergebnisse kümmert. 
 Stellen Sie dieser Partei die Eingangsdaten zur Verfügung.
 
-**Update 2019**: Müsste aktualisiert werden, Stichwort Web Assembly. 
+**Update 2019**: Müsste aktualisiert werden, Stichwort Web Assembly.
+Es hat tatsächlich mit Silverlight funktioniert.
+UC bleibt stehen für später.
 
 ## UC 5
 
@@ -113,6 +112,10 @@ Bausteine:
 Mit FR38 senden Sie Timing Messages direkt zu FR92. Beliebig viele Sender können angeschlossen werden.
 
 **Bemerkung 2019**: Absolut, via TCP, geht immer noch, wird immer funktionieren.
+Bisher mit IP Version 4, unverschlüsselt, direkt. 
+Am Router richten Sie Port-Forwarding ein und empfangen Live-Daten zu Hause (Oma), 
+gesendet vom Familien-Mitglied, vom anderen Kontinent, von der WM.
+Oma war in Ihre Jugend auch aktiv und kennt sich aus.
 
 ## UC 7
 

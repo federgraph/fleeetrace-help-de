@@ -24,4 +24,5 @@ Teilweise recycled vom alten blog (2006):
 <li><a href="zieleinlauf-eingeben.html">zieleinlauf-eingeben</a></li>
 </ul>
 
+*Ein Stillleben, mit drei L, im Juli.*<br>
 ![Sommmersonnen-Sonnenschein](../images/LabJack-UE9.jpg)

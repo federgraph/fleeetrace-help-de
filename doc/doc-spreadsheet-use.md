@@ -90,7 +90,7 @@ der Matrix der Zielpositionen.
 Bei der Verwendung von Flotten sollten Daten in mehreren Schritten
 importieren werden, zuerst die Startliste, dann die Definition der
 Flottenzugehörigkeit, dann die Zielpositionen und Penaltywerte. Auf jeden Fall
-sollten Sie die Flotten zuweisen, bevor Sie in den [Eingabemodus Strict(doc-input-mode.html) schalten.
+sollten Sie die Flotten zuweisen, bevor Sie in den [Eingabemodus Strict](doc-input-mode.html) schalten.
 Die [Namen der Athleten](doc-entry-names.html) können unabhängig davon zu jeder Zeit importiert werden.
 
 Der Vorteil einer Was-Wäre-Wenn-Analyse geht bei einem Gruppen-Rennen
@@ -106,7 +106,7 @@ die Flottenzugehörigkeit nur kopieren wollen, von einem Race zum nächsten, dan
 kann das direkt über einen Menüpunkt in der grafischen Oberfläche des Programms
 vorgenommen werden. Die Flottenzugehörigkeit kann interaktiv auch einzeln für
 jede Zelle im Grid eingestellt werden, und wird durch farbige Hinterlegung der
-Zelle gekennzeichnet, wenn der Color F Farbmodus aktiv ist.
+Zelle gekennzeichnet, wenn der **Color F** Farbmodus aktiv ist.
 
 ### Dialog
 
@@ -118,29 +118,29 @@ Zunächst ein Bild, die Erläuterung folgt.
 
 So benutzen Sie den Import Dialog:
 
-- Selektieren und kopieren Sie die Tabelle in Excel einschließlich der Spaltenköpfe.
-- Fügen Sie die Daten mit Paste oder Control V in das weiße Memo ein.
-- Alternativ können Sie mit Button Test Testdaten einfügen, um zu testen.
-- Drücken Sie den Button Show Tabs, wenn die Daten von Excel aus mit Tabulator getrennt wurden,
+1. Selektieren und kopieren Sie die Tabelle in Excel einschließlich der Spaltenköpfe.
+1. Fügen Sie die Daten mit Paste oder Control V in das weiße Memo ein.
+1. Alternativ können Sie mit Button **Test** Testdaten einfügen, um zu testen.
+1. Drücken Sie den Button **Show Tabs**, wenn die Daten von Excel aus mit Tabulator getrennt wurden,
 das ist normalerweise der Fall.
 Es werden dann einfach die Tabulatoren durch ein Semikolon ausgetauscht, damit Sie keine unsichtbaren Zeichen mehr haben.
-- Mit dem Button Shuffle kann die Zeilenzahl reduziert werden.
+1. Mit dem Button **Shuffle** kann die Zeilenzahl reduziert werden.
 Geben Sie eine 2 in das Editierfeld links vom Button ein, um die Zeilenzahl zu halbieren.
 Sie haben dann weniger Zeilen, die länger sind.
 Das kann eventuell die einfachste Lösung sein, wenn die Daten im Spreadsheet in einem mehrzeiligen Layout vorliegen.
-- Sie können die Daten im Memo editieren, zum Beispiel die Spaltenüberschriften korrigieren.
-- Selektieren Sie das Zeichen, mit dem die Felder getrennt sind, hier Semikolon, in der Combobox.
-- Wählen Sie, was Sie importieren wollen, hier nur die FinishList.
-- Drücken Sie den Button Convert um die Liste der einzeiligen Telegramme zu generieren.
-- Jetzt können Sie die Telegramme im blauen Memo noch bearbeiten, z.B. Zeilen löschen.
-- Mit dem Button Send würden Sie die Telegramme zur Verarbeitung an das Programm schicken.
-- Mit dem Button Close schließen Sie den Dialog, egal ob Sie die Telegramme im blauen Memo gesendet haben oder nicht.
-- Wenn Sie den Dialog erneut öffnen, sind die Daten noch da,
+1. Sie können die Daten im linken Memo editieren, zum Beispiel die Spaltenüberschriften korrigieren.
+1. Selektieren Sie das Zeichen, mit dem die Felder getrennt sind, hier Semikolon, in der **Combobox**.
+1. Wählen Sie, was Sie importieren wollen, hier nur die **FinishList**.
+1. Drücken Sie den Button **Convert** um die Liste der einzeiligen Telegramme zu generieren.
+1. Jetzt können Sie die Telegramme im blauen Memo noch bearbeiten, z.B. Zeilen löschen.
+1. Mit dem Button **Send** würden Sie die Telegramme zur Verarbeitung an das Programm schicken.
+1. Mit dem Button **Close** schließen Sie den Dialog, egal ob Sie die Telegramme im blauen Memo gesendet haben oder nicht.
+1. Wenn Sie den Dialog erneut öffnen, sind die Daten noch da,
 Sie könnten also nochmal das gleiche senden, was beim Testen hilfreich sein kann.
 
 Durch die beiden editierbaren Memofelder und die textbasierte, nachrichtenorientierte Funktionsweise wird der Import flexibel. 
 Im Prinzip können Sie vorbereitete Telegramme (zum Beispiel die Tabelle der Stammdaten)
-auch in das blaue Memo einfügen und mit dem Send Button über die interne Verbindung an das Programm zur Verarbeitung übergeben. 
+auch in das blaue Memo einfügen und mit dem **Send** Button über die interne Verbindung an das Programm zur Verarbeitung übergeben. 
 Oder Sie senden die Nachrichten über das Netzwerk mit Hilfe eines der Programme im System FR. 
 Oder Sie fügen die Telegramme in die Text-Datei auf der Festplatte ein. 
 Der Effekt ist immer gleich. 
@@ -158,3 +158,5 @@ Die konkrete Implementierung der Scoring-Engine ist nicht Hauptgegenstand des An
 und eine Variante wird bei Bedarf austauschbar als Open Source Komponente zur Verfügung gestellt. 
 Die Implementierung der Scoring-Engine hat eventuell Rückwirkungen auf die Definition und Formatierung der Penaltywerte im Hostprogramm. 
 Die im Artikel gezeigte, prinzipielle Arbeitsweise des Imports der Daten vom Spreadsheet bleibt davon unberührt.
+
+[Zurück](doc-index.html) zu den Dokumenten.

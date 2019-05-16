@@ -201,3 +201,5 @@ Die primäre Datenquelle für diese Reports liefert das Programm FR in Form von 
 Sie sind also in keiner Weise limitiert und ich hoffe, 
 dass Sie die Flexibilität des Entwurfs der Anwendung FR ausnutzen, 
 um ansprechende Reports zu erstellen.
+
+[Zurück](doc-index.html) zu den Dokumenten.

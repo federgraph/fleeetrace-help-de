@@ -87,3 +87,5 @@ auch ohne externe Datenquelle betrieben werden
 
 Damit sind die wesentlichen Elemente des Nachrichtenflusses skizziert. Alles
 weitere sind Details.
+
+Weiter zum [Nachrichtenplan](doc-msg-map.html).

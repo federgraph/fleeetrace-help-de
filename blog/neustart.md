@@ -11,6 +11,17 @@ author: Gustav Schubert
 Ich habe den Quelletext von FR01 zu GitHub hochgeladen.
 Die Lizenz ist GPL 3.0.
 
+```
+ 2019
+-2006
+-----
+ 0013
+ ====
+```
+
+Jetzt müssen Sie selbst kompilieren.
+Mein `Code Signing Certificate` ist abgelaufen.
+
 ## Neustart ( 2006 )
 
 Es ist etwa ein Jahr vergangen, seitdem das Blog eingerichtet wurde. 
@@ -34,8 +45,3 @@ mit einer Methode Ihrer Wahl.
 damit diese die *aktuellen Ergebnisse* in FR01 downloaden und zum Leben erwecken können.
 
 Hilfestellung folgt in den Artikeln hier im Blog.
-
-- Es funktioniert. 
-- Sie müssen sich nur entscheiden, wie Sie es machen wollen, nicht alles ist vorkonfiguriert und fest verdrahtet.
-- Für wen ist es gedacht?
-- Für alle, die es verstehen.

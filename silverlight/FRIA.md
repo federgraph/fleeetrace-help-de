@@ -70,6 +70,7 @@ Auch wenn mit dem Standardlook begonnen wird, um zunächst den
 technischen Aspekt zu testen, ein späteres Austauschen des Designs
 ist fest eingeplant.
 
-**Update 2019**: Again, this is all phantasy by the original developer.
-And history is repeating itself, now with the Angular SPA applications.
-I will delete this whole paragraph, but out of curiosity I will do so only in the next commit.
+**Update 2019**: Again, this is phantasy by the original developer.
+And history may repeat itself, now with the Angular SPA applications.
+
+Obwohl, ich muss darauf hinweisen, dass die Angular Material Design Komponenten gut aussehen.

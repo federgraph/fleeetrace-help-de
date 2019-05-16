@@ -71,3 +71,5 @@ Sie können ohne Bedingung jederzeit vom Strict Modus in den Relaxed Modus wechs
 Den Strict Modus gibt es schon ewig, so dass davon nicht mehr viel gesprochen wird.
 Er ermöglicht die schnelle Was-wäre-wenn-Analyse in der [Desktopapplikation](../applications/FR93.html),
 und neuerdings auch im [Silverlight Client](../silverlight/FRIA05.html).
+
+[Zurück](doc-index.html) zu den Dokumenten.

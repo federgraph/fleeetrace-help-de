@@ -590,7 +590,7 @@ ausgeliefert.</dd>
 <dd>Die Xml Reports können als Grundlage von speziellen Reports dienen, die
 extern generiert werden.</dd>
 <dt>Entries Tab</dt>
-<dd>Grid mit Darstellung der Stammdatentabellen für die Namen der
+<dd>Grid mit Darstellung der Stammdatentabelle für die Namen der
 Athleten/Entries im Race/Event.</dd>
 <dt>Timing Tab</dt>
 <dd>Eine einfache grafische Oberfläche zum Eingeben/Generieren von Zeiten/Timing
@@ -621,8 +621,8 @@ selbst browsen kann (eingebettete Website).
 </dd>
 <dt>Web Menu</dt>
 <dd>Eine grafische Oberfläche zum Abrufen von Event Daten über das Web (http).
-Enthält die Möglichkeit zur Auswahl/Eingabe einer Url, ein Combobox zur Auswahl
-der Kategorie, und eine dynamische Buttonleiste zum Download der Daten
+Enthält die Möglichkeit zur Auswahl/Eingabe einer Url, eine Combobox zur Auswahl
+der Kategorie, und eine dynamische Buttonleiste zum Downloaden der Daten
 (Text/Xml) eines Events.</dd>
 <dt>Sockets</dt>
 <dd>Zwei TCP-Server-Sockets, Input und Output, für den Nachrichtenaustausch über
@@ -644,24 +644,26 @@ Bridge-Web, Widget-Web und Silverlight-Web.
 </dd>
 <dt>Server Bridge</dt>
 <dd>Die Bridge dient zur Synchronisierung von Daten zwischen Clienten und
-Server. Sie akzeptiert Verbindung von einer Client Bridge. Sie verteilt neue
+Server. Sie akzeptiert Verbindungen von einer Client Bridge. Sie verteilt neue
 Nachrichten an alle angeschlossenen Clienten. Die Server Bridge speichert Backup
-und Log für die Daten eines Events. Die Serverbridge kann in die Anwendung FR
+und Log für die Daten eines Events. Die Server Bridge kann in die Anwendung FR
 eigebettet sein.
 </dd>
 <dt>Client Bridge</dt>
-<dd>Zur Verbindung mit einer Serverbridge. Ermöglicht dem Benutzer die Steuerung
-des Datenaustauschs mit den Operationen Plugin, Plugout, Download. Je nach
-Ausführung zusätzlich mit den Operationen Upload und Synchronize.
+<dd>Zur Verbindung mit einer Server Bridge. Ermöglicht dem Benutzer die Steuerung
+des Datenaustauschs mit den Operationen <b>Plugin</b>, <b>Plugout</b> und <b>Download</b>. Je nach
+Ausführung zusätzlich mit den Operationen <b>Upload</b> und <b>Synchronize</b>.
 </dd>
 <dt>Local Workspace</dt>
 <dd>Ermöglicht die Speicherung der Event Daten im lokalen Dateisystem.</dd>
 <dt>Remote Workspace</dt>
 <dd>Durch Umleitung/Virtualisierung von I/O Operationen kann der Workspace sich
-auch hinter einem Webservice verbergen, und/oder alle Dateien können innerhalb
+auch hinter einem Web Service verbergen, und/oder alle Dateien können innerhalb
 der Datenbank abgelegt werden.</dd>
 <dt>FR38 Timing Client</dt>
-<dd>Ein einfacher Client zur manuellen Generation von Timingdaten.</dd>
+<dd>Ein einfacher Client zur manuellen Generation von Timing Daten,
+also Zeiten und Penalty-Zuweisungen.
+</dd>
 <dt>FR98 Result Client</dt>
 <dd>Ein Client zum Anschluss am FR TCP Output Socket. FR98 hat Verbindung zur FR
 Anwendung über TCP und HTTP. Über den Socket (tcp) wird FR98 benachrichtigt. Im

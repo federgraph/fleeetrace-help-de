@@ -53,3 +53,5 @@ mal eintragen. Diese Werte werden dann in den Event-Teil übernommen, so dass da
 Komitee nur noch die speziellen Fälle im Event-Tableau aktualisieren muss. Dies 
 könnte vom Protestverhandlungsraum aus online mit einer Message erfolgen, die 
 nach einer Eingabe im Grid mit Enter abgeschickt wird.
+
+[Zurück](doc-index.html) zu den Dokumenten.

@@ -9,3 +9,11 @@ title: FRIA09
 # FRIA09
 
 ![FRIA09 screenshot](../images/FRIA09.png)
+
+Jedenfalls ist hier der Timing Tab zu sehen,
+und Tag Race, und Tab Mark, und Tab Bridge.
+
+Bridge ist nicht oben drüber, sondern hat seinen eigenen Tab.
+
+
+

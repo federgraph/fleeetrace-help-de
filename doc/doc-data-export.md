@@ -217,7 +217,7 @@ Anzahl der Angaben in der Liste soll EP.NameFieldCount entsprechen.</dd>
 <dd>Die Festlegung, welche Spalten auf den Reports ausgegeben werden sollen. Die 
 Anzahl der Komma-getrennten Indexwerte sollte mindestens die Länge von 
 EP.NameFieldCount haben. 
-Mehr Informationen dazu sind im Artikel über die [Namen](doc-entry-names) zu finden.
+Mehr Informationen dazu sind im Artikel über die <a href="doc-entry-names.html">Namen</a> zu finden.
 Die Spalte DN (DisplayName) hat Index 0. Die anderen 
 Spalten haben Index X, entsprechend der Spaltenbezeichnung NX.</dd>
 
@@ -240,7 +240,7 @@ verwendet werden, dann wird empfohlen, den Standardwert 20 einzutragen.</dd>
 <dd>Wenn IsTimed auf False gestellt wird, dann speichert das Programm keine 
 Zwischenzeiten. Die eventuell vorhandenen Zwischenzeiten werden damit entfernt. 
 Sollten Sie Tabellen mit Zwischenzeiten bereitstellen, dann setzen Sie 
-EP.IsTimed auf True;
+EP.IsTimed auf True.
 </dd>
 
 <dt>EP.UseCompactFormat</dt>
@@ -249,7 +249,7 @@ EP.IsTimed auf True;
 </dl>
 
 Einige Event-Properties werden nur geschrieben, wenn sie vom Standardwert 
-abweichen. Das betrifft unter anderem Metainformationen zum Event (Datum, Ort), 
+abweichen. Das betrifft unter anderem Meta-Informationen zum Event (Datum, Ort), 
 Angaben zur Darstellung in den Reports (ShowCupColumn) und Angaben zu optionalen 
 Berechnungen (Uniqua-Ranglisten-Berechnung). Diese Properties müssen beim 
 Datenimport nicht angegeben werden. Sie können in der grafischen Oberfläche mit 
@@ -298,3 +298,5 @@ auswählen. Man kann heute noch nicht wissen, welche Scorings-Systeme von
 zukünftigen Implementierungen der Scoring-Engine bereitgestellt werden.</dd>
 
 </dl>
+
+[Zurück](doc-index.html) zu den Dokumenten.

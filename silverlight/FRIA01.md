@@ -6,6 +6,27 @@ title: FRIA01
 
 {% include nav-FRIA.html %}
 
-<h1>FRIA01</h1>
+# FRIA01
 
 ![FRIA01 screenshot](../images/FRIA01.png)
+
+Index, Home, Bridge und Silverlight sind ganz normale Tabs auf einer normalen Webseite.
+Ignorieren Sie die Farben. Das Design, von den Farben abgesehen, ist das normale template,
+das damals mit Visual Studio geliefert wurde, perfekt für IE.
+
+Der Silverlight Tab ist gerade ausgewählt.
+Dort ist das eingebettete Objekt zu sehen, die Silverlight SPA Anwendung, gelb unterlegt.
+
+Die links oberhalb von FRIA01 sind normale html links auf der Seite.
+Damit können folgende Silverlight Controls aufgerufen werden:
+
+- EventBrowser
+- RemoteControl
+- RaceMonitor
+- Rgg14
+- SKK74
+- SKK75
+
+Ich glaube FRIA01 ist der EventBrowser, im Umfang entsprechend FR01.
+
+Im Bild zu sehen: Seite Menu.

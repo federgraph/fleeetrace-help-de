@@ -30,10 +30,10 @@ FR.*.W2.Bib2.QU=DSQ
 ```
 
 - Links vom Gleichheitszeichen steht der Key.
-- FR kennzeichnet die Anwendung (den Typ)
+- FR kennzeichnet die Anwendung (den Typ).
 - Im zweiten Abschnitt steht * für die anonyme Division (ausreichend wenn Telegramme nur für eine Bootsklasse gesendet werden).
-- W2 ist die 2. Wettfahrt (Race 2)
-- Bib2 kennzeichnet die Zeile in der Tabelle
+- W2 ist die 2. Wettfahrt (Race 2).
+- Bib2 kennzeichnet die Zeile in der Tabelle.
 - QU bedeutet, dass ein Penaltywert (QUIT packet) gesendet wird.
 - DSQ rechts vom Gleichheitszeichen ist der Value.
 
@@ -231,7 +231,7 @@ Bezeichnung für den letzten Eintrag im Pfad.
 </tr>
 </table>
 
-STL initialisiert Zeilen in Tabelle W bzw. in den Tabellen W(X).
+STL initialisiert Zeilen in Tabelle W(1) bzw. in den Tabellen W(X).
 
 Wie in Level 4 definiert können die für eine Zeile in W(X) bestimmten
 Nachrichten auf die Bib (eindeutige Kennzeichnung der Zeile in Tabelle W) oder
@@ -455,3 +455,5 @@ werden.
   </MsgList>
 </FR>
 ```
+
+[Nachrichtenfluss](doc-msg-flow.html)

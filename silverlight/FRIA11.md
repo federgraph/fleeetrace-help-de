@@ -8,9 +8,13 @@ title: FRIA11
 
 # FRIA11
 
-FRIA11 ist auf die Anzeige der Zwischenzeiten bzw. Bojen-Rundungs-Zeiten ausgelegt.
-
 ![FRIA11 screenshot](../images/FRIA11.png)
+
+Der nicht unterstrichene Link deutet darauf hin, das es sich hier um den Race Monitor handelt.
+
+## Update 2012
+
+FRIA11 ist auf die Anzeige der Zwischenzeiten bzw. Bojen-Rundungs-Zeiten ausgelegt.
 
 Hier im Bild ist der Finisht Timepoint (FT bzw. IT0) für Race 1 zu sehen.
 Bei Definition von mehreren Zwischenzeiten (ITX) werden im Grid entsprechend viele Spalten angezeigt.
