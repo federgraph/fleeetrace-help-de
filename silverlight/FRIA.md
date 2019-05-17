@@ -21,7 +21,7 @@ zwei Demonstrationen online.
 
 <h2>FRIA05</h2>
 
-FRIA05 ist eine Applikation, die zur Anzeige von statischen Daten
+[FRIA05](FRIA05.html) ist eine Applikation, die zur Anzeige von statischen Daten
 dient. Die Daten werden dabei vom Server geladen. Der Server kann im
 einfachsten Fall ein statischer Webserver sein, der xml-Dateien
 ausliefert.
@@ -42,6 +42,20 @@ Die anderen Varianten von FRIA zeigen weitere Daten an, sie sind
 der Desktopanwendung noch ähnlicher. Einige Varianten können sich
 über das Netzwerk live mit der Desktopanwendung verbinden und Daten
 senden (dynamischer Silverlight Client).
+
+<nav>
+    <a href="FRIA01.html">  01</a>
+    <a href="FRIA02.html">| 02</a>
+    <a href="FRIA03.html">| 03</a>
+    <a href="FRIA04.html">| 04</a>
+    <a href="FRIA05.html">| 05</a>
+    <a href="FRIA06.html">| 06</a>
+    <a href="FRIA07.html">| 07</a>
+    <a href="FRIA08.html">| 08</a>
+    <a href="FRIA09.html">| 09</a>
+    <a href="FRIA10.html">| 10</a>
+    <a href="FRIA11.html">| 11</a>
+</nav>
 
 <h2>FR04</h2>
 

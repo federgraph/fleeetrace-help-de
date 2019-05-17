@@ -159,4 +159,4 @@ und eine Variante wird bei Bedarf austauschbar als Open Source Komponente zur Ve
 Die Implementierung der Scoring-Engine hat eventuell Rückwirkungen auf die Definition und Formatierung der Penaltywerte im Hostprogramm. 
 Die im Artikel gezeigte, prinzipielle Arbeitsweise des Imports der Daten vom Spreadsheet bleibt davon unberührt.
 
-[Zurück](doc-index.html.html) zu den Dokumenten.
+[Zurück](doc-index.html) zu den Dokumenten.

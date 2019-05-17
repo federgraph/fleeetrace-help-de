@@ -5,6 +5,9 @@ title: Links
 
 # Links
 
+## Angular
+- [FREO](angular/FREO.html)
+
 ## Top
 - [index](index.html)
 - [components](components.html)
@@ -84,6 +87,8 @@ title: Links
 ## Silverlight
 <ul>
 <li><a href="./silverlight/FRIA.html">FRIA</a></li>
+<li><a href="./silverlight/FRIAS.html">FRIAS</a></li>
+<li><a href="./silverlight/FRIAS-Layout.html">FRIAS-Layout</a></li>
 <li><a href="./silverlight/FRIA01.html">FRIA01</a></li>
 <li><a href="./silverlight/FRIA02.html">FRIA02</a></li>
 <li><a href="./silverlight/FRIA03.html">FRIA03</a></li>

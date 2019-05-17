@@ -20,7 +20,7 @@ Also Bridge und Mark, diese beiden Features sind drin, auch wenn ich keine Tabs 
 
 FRIA11 ist auf die Anzeige der Zwischenzeiten bzw. Bojen-Rundungs-Zeiten ausgelegt.
 
-Hier im Bild ist der Finisht Timepoint (FT bzw. IT0) für Race 1 zu sehen.
+Hier im Bild ist der Finish Timepoint (FT bzw. IT0) für Race 1 zu sehen.
 Bei Definition von mehreren Zwischenzeiten (ITX) werden im Grid entsprechend viele Spalten angezeigt.
 Anhand der Rückstandszeiten können Sie den Verlauf des Rennens verfolgen.
 

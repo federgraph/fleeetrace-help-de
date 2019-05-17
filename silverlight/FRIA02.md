@@ -11,7 +11,7 @@ title: FRIA02
 *second*<br>
 ![FRIA02 screenshot](../images/FRIA02.png)
 
-Das müsste Remote Control sein, ein Silverlight Control welches, anstatt den eignen Namen oben einzublenden,
+Das müsste Remote Control sein, eine Silverlight Anwendung welche, anstatt den eignen Namen oben einzublenden,
 den Toolbar zeigt, mit dem die Verbindung zur Bridge hergestellt werden kann.
 
 Der Toolbar ist ein Custom Control (Tab Bridge), der Toolbar zählt als Tab.
