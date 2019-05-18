@@ -132,7 +132,7 @@ Warum nicht einfach die Zielpositionen vom schwarzen Brett entnehmen?
 - Einer liest die Positionen vor.
 - Der Andere tippt.
 - Vor dem ersten Rennen: Neuen Event erzeugen mit der entsprechenden Anzahl von Teilnehmern und Wettfahrten.
-- Vergessen Sie nicht zu im Local Storage zu speichern (Save). 
+- Vergessen Sie nicht im Local Storage zu speichern (Save). 
   Der *Lokale Speicher* wird vom Browser verwaltet und kann mit den Browser-Werkzeugen eingesehen und gelöscht werden.
 - Am nächsten Tag müssen Sie laden (Load) bevor Sie weitermachen.
 
@@ -156,7 +156,7 @@ Beginnen Sie mit dem Aufzeichnen der Zielpositionen.
 
 Die aktuelle Version befindet sich auf GitHub, see repository **FR03E1**.
 
-FREO, wie im nachfolgenden Link und FR03E1 auf GitHub sind nicht exakt identisch, aber fast.
+FREO, wie im Link oben und FR03E1 auf GitHub sind nicht exakt identisch, aber fast.
 
 FR03E1 soll von der Delphi Applikation oder von Node.js oder von ASP.Net ausgeliefert werden,
 also von einem Server, der eine Api implementiert, und wo Daten auch hochgeladen werden können.

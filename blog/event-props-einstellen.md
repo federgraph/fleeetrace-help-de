@@ -2,7 +2,6 @@
 layout: default
 lang: de
 title: Event Eigenschaften
-old-permalink: "http://www.fleetrace.org/blog/2012/06/wie-sie-die-event-properties-einstellen/"
 ---
 		
 # Wie Sie die Event Properties einstellen

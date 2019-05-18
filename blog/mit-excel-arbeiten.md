@@ -2,7 +2,6 @@
 layout: default
 lang: de
 title: Mit Excel arbeiten
-old_permalink: "http://www.fleetrace.org/blog/2012/06/wie-sie-mit-excel-arbeiten/"
 ---
 	
 # Wie Sie mit Excel arbeiten

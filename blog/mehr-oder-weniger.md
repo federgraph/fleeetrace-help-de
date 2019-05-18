@@ -2,7 +2,6 @@
 layout: default
 lang: de
 title: Mehr oder Weniger
-old_permalink: "http://www.fleetrace.org/blog/2012/06/mehr-oder-weniger/"
 ---
 		
 # Mehr oder Weniger

@@ -2,7 +2,6 @@
 layout: default
 lang: de
 title: Lokaler Workspace
-old-permalink: "http://www.fleetrace.org/blog/2012/06/local-workspace/"
 ---
         
 # Local Workspace

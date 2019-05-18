@@ -2,7 +2,6 @@
 layout: default
 lang: de
 title: Warum 500
-old_permalink: "http://www.fleetrace.org/blog/2012/06/warum-500/"
 ---
 
 # Warum 500

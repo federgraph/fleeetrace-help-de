@@ -2,7 +2,6 @@
 layout: default
 lang: de
 title: Beispieldaten
-old_permalink: "http://www.fleetrace.org/blog/2012/06/wie-sie-beispieldaten-herunterladen/"
 ---
 
 # Wie Sie Beispieldaten herunterladen

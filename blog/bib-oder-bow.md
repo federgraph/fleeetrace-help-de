@@ -2,7 +2,6 @@
 layout: default
 lang: de
 title: Bib oder Bow
-old_permalink: "http://www.fleetrace.org/blog/2012/06/bib-oder-bow/"
 ---
 
 # Bib oder Bow

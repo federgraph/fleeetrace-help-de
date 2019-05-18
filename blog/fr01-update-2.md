@@ -2,7 +2,6 @@
 layout: default
 lang: de
 title: FR01 Update 2
-old-permalink: "http://www.fleetrace.org/blog/2012/06/fr01-update-2/"
 ---
 
 # FR01 Update 2
