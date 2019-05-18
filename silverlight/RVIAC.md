@@ -9,7 +9,7 @@ title: RVIAC
 
 # RVIAC
 
-RVIAC ist die kombinierte Silverlight Demoanwendung. Es ist technisch eine
+RVIAC ist die *kombinierte* Silverlight Demoanwendung. Es ist technisch eine
 sogenannte Silverlight Navigationsanwendung. Das bedeutet, dass es mehrere
 Seiten/Tabs gibt, die der Benutzer anklicken kann. RVIAC enthält die folgenden Seiten:
 - SKIA, demonstriert den elektronischen Zirkel in unterhaltsamer Weise
@@ -26,8 +26,7 @@ Form verändert werden. Zum Drehen ziehen Sie die Maus über dem roten Hintergru
 Kreis. Zum Verändern der Form verwenden Sie den Scrollbar. Alles andere können
 Sie durch Probieren herausfinden.
 
-<p><a href="../images/RVIAC-RGIA.png">
-<img alt="" src="../images/RVIAC-RGIA_small.png" height="262" width="300" /></a></p>
+![RVIAC-RGIA](../images/RVIAC-RGIA.png)
 
 <hr/>
 
@@ -35,8 +34,19 @@ Das Grid auf Seite FRIA zeigt die berechneten Resultate einer Regatta. Nach
 Start der Anwendung sind Standarddaten geladen. Über das Menü (ComboBox und
 Button-Leiste) können statische Xml-Daten nachgeladen werden.
 
-<p><a href="../images/RVIAC-FRIA.png">
-<img alt="" src="../images/RVIAC-FRIA_small.png" height="220" width="300" /></a></p>
+![RVIAC-FRIA](../images/RVIAC-FRIA.png)
+
+```
+FR = Fleetrace
+RIA = Rich Internet Application
+SPA = Single Page Application
+FRIA05 ~ FRIAS (Alias)
+riggvar.net = alte domain, nicht mehr existent
+IDM 420 = Kategorie, immer noch da
+1991, 1997, 2000, 2004 = sollte ergänzt werden, XML Event Data File
+TestEvent = Standard, es wurde noch nicht auf 1991 geklickt.
+*Finish = Finish Positions werden angezeigt, gerade ausgewählt, statt Points
+```
 
 Durch direkte Eingabe in die editierbaren Spalten RX können Zielpositionen
 und Penaltyzuweisungen verändert werden. Die Anzahl der gestrichenen Wettfahrten
@@ -48,5 +58,5 @@ Colorbutton rotiert den Modus für die Hintergrundfarbe.
 
 <hr/>
 
-Die RVIAC Demo können Sie ausgehend von der Demo Startseite testen.
+Die RVIAC Demo konnten Sie ausgehend von der Demo Startseite testen.
 

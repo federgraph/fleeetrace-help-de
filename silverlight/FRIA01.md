@@ -24,8 +24,8 @@ Damit können folgende Silverlight Controls aufgerufen werden:
 - EventBrowser
 - RemoteControl
 - RaceMonitor
-- Rgg14 //RG Demo
-- SKK74 //Schnitt Kreis Kreis Beispiel
+- Rgg14 // RG Demo
+- SKK74 // Schnitt-Kreis-Kreis Beispiel
 - SKK75
 
 Ich glaube FRIA01 ist der EventBrowser, im Umfang entsprechend FR01.

@@ -642,6 +642,9 @@ Enthält die Möglichkeit zur Auswahl/Eingabe einer Url, eine Combobox zur Auswa
 der Kategorie, und eine dynamische Buttonleiste zum Downloaden der Daten
 (Text/Xml) eines Events.</dd>
 
+<dt>Event Menu</dt>
+<dd>Aktueller Alias für Web Menü. Ich wusste gar nicht mehr, dass es eigentlich Web Menü hieß.</dd>
+
 <dt>Sockets</dt>
 <dd>Zwei TCP-Server-Sockets, Input und Output, für den Nachrichtenaustausch über
 das Netzwerk. Es können Timing-Daten an das Programm FR gesendet werden. Es

@@ -100,6 +100,10 @@ Mit Hilfe von FRIA04 (Silverlight Applikation) können die Nachrichten in Echtze
 
 **Update 2019**: Funktioniert mit Angular Client, der über Web Sockets an einen Node.js Proxy Server angebunden ist.
 FR38 kann durch eine moderne Variante ersetzt werden.
+FRIA04 ist Event Only, das bedeutet das mit Live-Daten die Zielzeiten gemeint sind,
+von denen die Finish Positions abgehoben werden.
+Das müsst man überprüfen bzw. das kann man ändern, es ist nur ein Beispiel für die Verwendung von FR04,
+ersetze durch FR69. FR38 und FRIA04 durch geeignete Komponenten ersetzen.
 
 ## UC 6
 

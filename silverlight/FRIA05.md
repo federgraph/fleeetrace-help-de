@@ -19,8 +19,8 @@ und ein Verzeichnis dieser Daten (EventMenu.xml) auf dem Server ablegen.
 - Der Server kann auch ein Linux Webserver sein.
 - Die Anwendung wurde mit Internet Explorer, Firefox und Safari getestet.
 
-Da das Silverlight Control von der Website geladen wurde ist gibt es im Event Menü keine Combobox für die Url.
-Die SPA Applikation kann sich nur mit der Site verbinden von der es geladen wurde (same site policy).
+Da das Silverlight Control von der Website geladen wurde gibt es im Event Menü keine Combobox für die Url.
+Die SPA Applikation kann sich nur mit der Site verbinden von der sie geladen wurde (same site policy).
 Die Combobox im Bild ist also die Kategorie-Combo.
 Im Moment ausgewählt: Kategorie *IDM 420*. 
 Sie legen fest, welche Kategorien es gibt, und welche Events sich auf Ihrem Server befinden.
@@ -34,15 +34,15 @@ aber die Buttons **Source**, **Txt** und **Xml** sind auf Seite Event integriert
 und auch das Memo. Event Tab und Report Tab sind also hier verschmolzen.
 
 Genau genommen sehe ich überhaupt keinen Tab, aber rein logisch sind die Funktionen vorhanden:
-- vom Menu Tab,
-- Event Tab und
-- Report-Tab.
+- Menu Tab
+- Event Tab
+- Report Tab
 
 Entries Tab fehlt, 
 es ist der Event Viewer, 
 die Oberfläche für die Ansicht und Eingabe der Stammdaten-Tabelle kann hier entfallen.
 
-> Sol langsam kriege ich es wieder zusammen. (18.05.2019)
+> So langsam kriege ich es wieder zusammen. (18.05.2019)
 
 Der Ersatz für FRIA05 bzw. FRIAS ist wahrscheinlich [FREO](../angular/FREO.html).
 Wahrscheinlich, weil keiner weiß, was die User am Ende benutzen werden.

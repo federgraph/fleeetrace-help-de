@@ -54,7 +54,7 @@ Mit [FR94](../applications/FR94.html) können Sie auch Daten **erzeugen**,
 es steht eine Teilmenge der vollen Funktion von FR zur Verfügung.
 Der Race Teil wurde entfernt, der Event Teil ist enthalten.
 
-**Bemerkung 2019**: FR94 ist vergleichbar mit **FR03E1**, siehe GitHub repository.
+**Bemerkung 2019**: FR94 ist vergleichbar mit **Angular FR03E1**, siehe GitHub repository.
 
 **ToDo**: Angular Projekte listen, beschreiben, und Link bereitstellen.
 
