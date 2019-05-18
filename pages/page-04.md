@@ -397,9 +397,11 @@ title: Matrix
 </tbody>
 </table>
 
-<h2>FRIA Feature Matrix</h2>
+## FRIA Feature Matrix
 
-<p>Die FR Internet Applikationen (FRIA) funktionieren im Prinzip genau so wie die Desktop Varianten.</p>
+Die FR Internet Applikationen (FRIA) funktionieren im Prinzip genau so wie die Desktop Varianten.
+
+**ToDo**: Update Feature Matrix, show Angular Applications instead of Silverlight Apps.
 
 <table width="80%">
 <thead>
@@ -563,50 +565,63 @@ title: Matrix
 </tbody>
 </table>
 
-<p>Die Event Viewer Applikation FRIA05 steht mit einigen Beispieldaten online
-zum Testen bereit.</p>
+## FRIA Feature Matrix - Silverlight Apps (Old)
 
-<h2>Glossar</h2>
+![FRIA-Feature-Matrix-2012](../images/FRIA-Feature-Matrix-2012.png)
+
+Die Event Viewer Applikation [FRIA05](../silverlight/FRIA05.html) stand/steht mit einigen Beispieldaten online zum Testen bereit.
+
+## Glossar
 
 <dl>
+
 <dt>Windows UI</dt>
 <dd>Die Feature Matrix bezieht sich auf die Delphi Versionen, nicht auf die .net
 und java Versionen. Bis auf den Windows Service haben alle Anwendungen eine
 normale grafischer Oberfläche.
 </dd>
+
 <dt>Event Part</dt>
 <dd>Bezogen auf die Sportart Segeln (FleetRace) ist der Event Part der
 sportartspezifische Teil, der die Ergebnisse der Serie von Wettfahrten (Regatta)
 berechnet.</dd>
+
 <dt>Race Part</dt>
 <dd>Der Race Part ist der sportartunabhängige Teil, der das Timing eines
 einzelnen Rennens behandelt.</dd>
+
 <dt>Html Reports</dt>
 <dd>Die FR Anwendung kann die Tabellen (Entries, Race, Event) als Html Reports
 generieren. Die Html Reports werden eventuell im Cache gepuffert und je nach
 vorhandener Schnittstelle über tcp (Socket) und/oder http (Website)
 ausgeliefert.</dd>
+
 <dt>Xml Output</dt>
 <dd>Die Xml Reports können als Grundlage von speziellen Reports dienen, die
 extern generiert werden.</dd>
+
 <dt>Entries Tab</dt>
 <dd>Grid mit Darstellung der Stammdatentabelle für die Namen der
 Athleten/Entries im Race/Event.</dd>
+
 <dt>Timing Tab</dt>
 <dd>Eine einfache grafische Oberfläche zum Eingeben/Generieren von Zeiten/Timing
 Messages. Die gesendeten Daten beziehen sich immer auf die aktuelle
 Zwischenzeit/Bojen-Rundung im aktuellen Race/Wettfahrt.</dd>
+
 <dt>Race Tab</dt>
 <dd>Grid für die Darstellung der Timing Daten für einen Timepoint im Race. Die
 verschiedenen Zwischenzeiten, sofern vorhanden, und die Zielzeiten können zur
 Anzeige gebracht werden. Die tabellarische Darstellung enthält Spalten für die
 Rückstandszeiten und Rangfolge.
 </dd>
+
 <dt>Event Tab</dt>
 <dd>Grid für die Anzeige der Regatta. Die tabellarische Darstellung enthält eine
 Spalte für jede Wettfahrt mit optionaler Anzeige der Zielplatzierung oder der
 Punkte, sowie Spalten für das Gesamtergebnis der Regatta mit berechneten Punkten
 und berechneter Rangfolge.</dd>
+
 <dt>Cache Tab</dt>
 <dd>Der Cache Tab enthält ein Grid mit Darstellung der Liste der definierten
 Reports. Die Spalten im Grid zeigen die Eigenschaften der Einträge wie
@@ -614,34 +629,41 @@ Request-String, Zeitpunkt der Aktualisierung und Version. Mit den Schaltflächen
 kann der Cache ungültig gemacht und ein Aktualisierungsdurchlauf gestartet
 werden.
 </dd>
+
 <dt>Browser Tab</dt>
 <dd>Der Browser Tab enthält ein ActiveX-Webbrowser-Control (eingebettetes
 Internet Explorer Fenster) und Tool-Buttons, mit denen die Anwendung zu sich
 selbst browsen kann (eingebettete Website).
 </dd>
+
 <dt>Web Menu</dt>
 <dd>Eine grafische Oberfläche zum Abrufen von Event Daten über das Web (http).
 Enthält die Möglichkeit zur Auswahl/Eingabe einer Url, eine Combobox zur Auswahl
 der Kategorie, und eine dynamische Buttonleiste zum Downloaden der Daten
 (Text/Xml) eines Events.</dd>
+
 <dt>Sockets</dt>
 <dd>Zwei TCP-Server-Sockets, Input und Output, für den Nachrichtenaustausch über
 das Netzwerk. Es können Timing-Daten an das Programm FR gesendet werden. Es
 können auch Reports über die Sockets abgerufen werden.
 </dd>
+
 <dt>Web Receiver</dt>
 <dd>Der Web Receiver dient als Gegenstation für den Web Sender. Er wird benutzt,
 wenn eine externe statuslose Website einen Teil der Anforderungen über das tcp
 Netzwerk an die statusbehaftete FR Server Applikation durchstellt.</dd>
+
 <dt>FR66 Web Sender</dt>
 <dd>Desktop Anwendung mit Website, die alle Anforderungen über tcp an die FR
 Serveranwendung durchstellt. Aus der Sicht der Anwendung FR ist es eine
 ausgelagerte Website. Aus der Sicht des Browsers ist FR66 ein Proxy.
 </dd>
+
 <dt>Web Site</dt>
 <dd>Eigebettetes Http-Interface. Wird eingeteilt in Home-Web, Remote-Web,
 Bridge-Web, Widget-Web und Silverlight-Web.
 </dd>
+
 <dt>Server Bridge</dt>
 <dd>Die Bridge dient zur Synchronisierung von Daten zwischen Clienten und
 Server. Sie akzeptiert Verbindungen von einer Client Bridge. Sie verteilt neue
@@ -649,26 +671,31 @@ Nachrichten an alle angeschlossenen Clienten. Die Server Bridge speichert Backup
 und Log für die Daten eines Events. Die Server Bridge kann in die Anwendung FR
 eigebettet sein.
 </dd>
+
 <dt>Client Bridge</dt>
 <dd>Zur Verbindung mit einer Server Bridge. Ermöglicht dem Benutzer die Steuerung
 des Datenaustauschs mit den Operationen <b>Plugin</b>, <b>Plugout</b> und <b>Download</b>. Je nach
 Ausführung zusätzlich mit den Operationen <b>Upload</b> und <b>Synchronize</b>.
 </dd>
+
 <dt>Local Workspace</dt>
 <dd>Ermöglicht die Speicherung der Event Daten im lokalen Dateisystem.</dd>
 <dt>Remote Workspace</dt>
 <dd>Durch Umleitung/Virtualisierung von I/O Operationen kann der Workspace sich
 auch hinter einem Web Service verbergen, und/oder alle Dateien können innerhalb
 der Datenbank abgelegt werden.</dd>
+
 <dt>FR38 Timing Client</dt>
 <dd>Ein einfacher Client zur manuellen Generation von Timing Daten,
 also Zeiten und Penalty-Zuweisungen.
 </dd>
+
 <dt>FR98 Result Client</dt>
 <dd>Ein Client zum Anschluss am FR TCP Output Socket. FR98 hat Verbindung zur FR
 Anwendung über TCP und HTTP. Über den Socket (tcp) wird FR98 benachrichtigt. Im
 eingebetteten Browser Control (http) kann eine Webseite aufgefrischt werden, die
 (zum Beispiel) von der FR Anwendung generiert wird.</dd>
+
 <dt>Silverlight Web</dt>
 <dd>Über das Silverlight Web können die Silverlight Clienten abgerufen/gestartet
 werden. Das Silverlight Web liefert die Silverlight Anwendungen (.xap) über http
@@ -676,12 +703,14 @@ an den Browser aus. Die Parameter für die Silverlight Anwendungen (Client)
 werden dynamisch angepasst, so dass der Silverlight Client Daten von der FR
 Anwendung laden kann.
 </dd>
+
 <dt>Static Silverlight Client</dt>
 <dd>Der statische Silverlight Client kann Daten laden, aber keine Daten senden.</dd>
 <dt>Dynamic Silverlight Client</dt>
 <dd>Über die eingebettete Client Bridge kann der dynamische Silverlight Client
 eine Verbindung zur Server Bridge herstellen und darüber Daten empfangen und
 eventuell auch Daten senden.</dd>
+
 </dl>
 
 [Einsatzfälle](page-05.html)

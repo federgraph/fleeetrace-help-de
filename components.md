@@ -1,34 +1,41 @@
 ---
 layout: default
 lang: de
-title: Komponenten
+title: FR Komponenten
 ---
 
 # Komponenten
 
-Zum Projekt FR gehören
-- normale Desktopanwendungen,
-- Serveranwendungen,
+Zum Projekt FR gehören:
+- normale Desktop Anwendungen,
+- Server Anwendungen,
 - Timing Clienten,
-- Webanwendungen
+- Web Anwendungen
 - und SPA Clienten.
 
+Der SPA Client für das Fleetrace Projekt wird auch als Fleetrace Internetapplikation **FRIA** bezeichnet.
+Vom SPA Client gibt es mehrere Varianten, aktive und passive.
 
-Der Silverlight Client für das FleetRace Projekt wird auch als FleetRace Internetapplikation [FRIA](silverlight/FRIA.html) bezeichnet.
-Vom Silverlight Client gibt es mehrere Varianten, aktive und passive.
-
-Der Silverlight Client als letztes Glied in der Kette kann auch solo genutzt werden, 
+Der SPA Client als letztes Glied in der Kette kann auch solo genutzt werden, 
 zum Beispiel zur Anzeige von statischen Regattaergebnissen.
 
 Statisch bedeutet dabei, dass die Eingangsdaten unveränderbar auf einem Webserver bereitgestellt werden.
 
-Im Silverlight Client werden die Ergebnisse jedoch dynamisch berechnet und können auch nachträglich zum Leben erweckt werden.
+Im SPA Client werden die Ergebnisse jedoch dynamisch berechnet und können auch nachträglich zum Leben erweckt werden.
 
-Der Silverlight Client kann für den Einsatz auf der Seite Ihres Segelvereins oder der Klassenvereinigung lizensiert werden.
+SPA Client war 2012 eine Silverlight Anwendung.
+Ab 2018 wird er durch Angular Apps abgelöst.
 
-Für alle, die selbst Daten bereitstellen wollen sind Informationen zum [Schnellstart](doc/doc-fria-quick-start.html) verfügbar.
+Alte Dokumentation:
+
+- [FRIA](silverlight/FRIA.html)
+- [FRIA Schnellstart](doc/doc-fria-quick-start.html)
+
+Neue Dokumentation ist *geplant* !
 
 ## Liste der Komponenten
+
+![FR Pyramide](images/FR62-Pyramide-05.png)
 
 <dl>
 <dt><a href="applications/FR04.html">FR04</a></dt>
@@ -54,7 +61,7 @@ handler, Java servlet oder (historisch) Delphi ISAPI DLL. Diese Anwendung steht
 für spezielle Einsatzfälle zur Verfügung. Es empfiehlt sich mit einer der
 Desktopanwendungen zu beginnen.</dd>
 
-<dt>FR65</a></dt>
+<dt>FR65</dt>
 <dd>Wie FR63, als Windows Service.</dd>
 
 <dt><a href="applications/FR90.html">FR90</a></dt>
@@ -85,7 +92,7 @@ Timing Aufgaben eingesetzt werden.</dd>
 <dd>Dynamische Website, ASP.NET MVC, liefert FRIA-Client, holt archivierte Daten
 für FRIA aus der Datenbank.</dd>
 
-w<dt>FRWA02</dt>
+<dt>FRWA02</dt>
 <dd>Statische Website, liefert FRIA-Client, liest xml für FRIA vom Dateisystem.</dd>
 
 <dt><a href="silverlight/FRIA03.html">FRIA03</a></dt>

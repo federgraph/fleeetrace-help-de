@@ -21,7 +21,9 @@ und mit Markdown ist es einfach.
 
 ## History
 
-ToDo: Screenshot einfügen, von .chm Datei.
+DONE: Screenshot einfügen, von .chm Datei.
+
+![Alte CHM](images/CHM.png)
 
 ## Die *Bedienungsanleitung* für FR01
 
