@@ -11,7 +11,9 @@ Der größte Teil des Inhaltes hier wurde wiederverwendet vom alten Blog und der
 Der Inhalt ist also teilweise veraltet und wird ersetzt oder gelöscht.
 Aber ich will das Repository mit dieser Version starten, so dass etwas von der Historie erhalten bleibt.
 
-Es wird von Clienten die Rede sein, nicht von Klienten, weil es mir weh tun würde es richtig zu schreiben, ich kann einfach keinen Clienten mit K sehen, soweit dazu.
+Es wird von Clienten die Rede sein, nicht von [Klienten](Rechtschreibung.html), 
+weil es mir weh tun würde es richtig zu schreiben, 
+ich kann einfach keinen Clienten mit K sehen, soweit dazu.
 
 # FR01
 

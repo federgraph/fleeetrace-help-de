@@ -20,7 +20,7 @@ Ich benutze als Editor für Markdown VS Code mit spellright, und das wird automa
 }
 ```
 
-Hier die Neue Ritterregel für ehemalige *Mosaic* Leser: Richtig ist, was **spell right** happy macht!
+Richtig ist, was **spell right** happy macht!
 Mehr gibt es dazu eigentlich nicht zu sagen, end of story, soweit zum Code of Conduct.
 
 Wenn ich `spell right` schreibe ist alles gut. Wenn ich `spellright` zusammenschreibe als ein Wort, dann ist es zunächst ein Problem.
@@ -64,24 +64,10 @@ Beispiel Windows 10: Tastatur-Layout immer noch Deutsch, aber zwei Sprachen sind
 
 ![Einstellungen Sprache](images/Sprache.png)
 
-Achtung, die **Windows-Anzeigesprache** sollte Deutsch sein,
-weil sonst überweisen Sie das nächste Mal 10.000 € statt 100,00 € 
-bei Verwendung von *Büro Easy* 2019.
-Es ist also nicht immer alles ganz einfach.
-
 > Immer richtig: Wie ich es in der Schule gelernt habe!
 
 Da von Client Sockets in der Schule keine Rede war existiert hier ein Raum von Freiheit,
-der International ist!
-
-Versuchen Sie mal ein Code Signing Certificate zu bekommen, 
-das auf den Namen einer UG (haftungsbeschränkt) ausgestellt werden soll, ein Wort mit **ä**.
-Tip: UG (haftungsbeschrankt) ist die Lösung, ganz einfach.
-Soweit zur Rechtschreibung.
-
-PS: Nur gut, dass GmbH oder Aktiengesellschaft nicht mit **ä** geschrieben werden,
-und der Buchhalter nichts Englisches schreiben muss, sonst würden Sie was merken.
-Wenn Sie Fehler im Programm finden oder hier in der Hilfe, bitte Issue erstellen, bei GitHub.
+der International ist.
 
 [Top](#){: .start-btn }
 [Zurück zum Test](test.html){: .start-btn}

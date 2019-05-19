@@ -17,7 +17,7 @@ Bib 2 (Bugnummer 2) ist jetzt aktuell, weil sie zuletzt benutzt wurde.
 
 ## Externer Link
 
-[Start von FREO](https://federgraph.de/freo/index.html)
+[Start von FREO](https://federgraph.de/freo/index.html){: .start-btn }
 
 ## About FREO
 
