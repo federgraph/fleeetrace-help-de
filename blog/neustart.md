@@ -20,7 +20,7 @@ Die Lizenz ist GPL 3.0.
 Jetzt müssen Sie selbst kompilieren.
 Mein `Code Signing Certificate` ist abgelaufen.
 
-## Neustart ( 2006 )
+## Neustart ( 2012 )
 
 Es ist etwa ein Jahr vergangen, seitdem das Blog eingerichtet wurde. 
 Aber jetzt geht es los. 

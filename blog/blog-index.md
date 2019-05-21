@@ -6,23 +6,21 @@ title: Blog
 
 # Blog
 
-Teilweise recycled vom alten blog (2006):
+## Recycled vom alten Blog (2012-06):
 
-<ul>
-<li><a href="beispiel-daten-herunterladen.html">beispiel-daten-herunterlanden</a></li>
-<li><a href="bib-oder-bow.html">bib-oder-bow</a></li>
-<li><a href="daten-format.html">daten-format</a></li>
-<li><a href="event-props-einstellen.html">event-props-einstellen</a></li>
-<li><a href="fr01-update-2.html">fr01-update-2</a></li>
-<li><a href="lokaler-workspace.html">lokaler-workspace</a></li>
-<li><a href="mehr-oder-weniger.html">mehr-oder-weniger</a></li>
-<li><a href="mit-excel-arbeiten.html">mit-excel-arbeiten</a></li>
-<li><a href="neustart.html">neustart</a></li>
-<li><a href="skip-download-und-import.html">skip-download-und-import</a></li>
-<li><a href="vorlage-lokaler-workspace.html">vorlage-lokaler-workspace</a></li>
-<li><a href="warum-500.html">warum-500</a></li>
-<li><a href="zieleinlauf-eingeben.html">zieleinlauf-eingeben</a></li>
-</ul>
+- [neustart](neustart.html)
+- [zieleinlauf-eingeben](zieleinlauf-eingeben.html)
+- [warum-500](warum-500.html)
+- [daten-format](daten-format.html)
+- [event-props-einstellen](event-props-einstellen.html)
+- [beispiel-daten-herunterlanden](beispiel-daten-herunterladen.html)
+- [lokaler-workspace](lokaler-workspace.html)
+- [vorlage-lokaler-workspace](vorlage-lokaler-workspace.html)
+- [bib-oder-bow](bib-oder-bow.html)
+- [mehr-oder-weniger](mehr-oder-weniger.html)
+- [skip-download-und-import](skip-download-und-import.html)
+- [mit-excel-arbeiten](mit-excel-arbeiten.html)
+- [fr01-update-2](fr01-update-2.html)
 
 *Ein Stillleben, mit drei L, im Juli.*<br>
 ![Sommmersonnen-Sonnenschein](../images/LabJack-UE9.jpg)
