@@ -17,7 +17,7 @@ ich kann einfach keinen Clienten mit K sehen, soweit dazu.
 
 # FR01
 
-## Ein Open Source Projekt
+#### Ein Open Source Projekt
 
 FR01 ist das Programm, mit dem Sie die Event-Daten einer Segelregatta im Fleetrace-Format analysieren.
 
@@ -31,7 +31,7 @@ und natürlich Zielpositionen ändern. Das könnte interessant werden!
 
 FR01 soll auf mehreren Plattformen verfügbar sein, Sie können mithelfen.
 
-## Nur eine Idee, Sie können es anders machen
+#### Nur eine Idee, Sie können es anders machen
  
 Die von FR01 verwendeten Daten könne einfach strukturierte Html-Fragmente sein, 
 welche unverändert auf der Website des Events eingebunden werden können. 
@@ -42,7 +42,7 @@ Damit ist die Voraussetzung dafür gegeben, dass der Event von der Anwendung rek
 Während das Html vom Programm aktuell gehalten wird
 kann das Aussehen im Browser verbessert und Inhalt ergänzt werden.
 
-## Verwendung von statischen Dateien
+#### Verwendung von statischen Dateien
 
 Für einen einzelnen Event genügt es, eine einzelne statische Html-Datei auf dem Server abzulegen.
 

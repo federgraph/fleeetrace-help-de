@@ -11,6 +11,7 @@ zwei Server-Sockets haben (einer links und einer rechts). Inputclient und
 Output client haben jeweils einen Clientsocket und verbinden sich manuell mit dem
 Server.
 
+*Nachrichtenfluss-Bild, erstellt mit Delphi Form Designer*<br>
 ![Message-Flow Graph](../images/MsgFlow.png)
 
 Nachfolgend beschrieben ist ein typisches Szenario, welches mit einer
@@ -40,6 +41,9 @@ und zurücksendet. Der Report wird außerdem im Cache gepuffert.
 1. Zukünftige Anfragen für genau diesen Report werden eventuell nicht neu
 berechnet sondern direkt aus dem Cache genommen.
 
+*kompletter traditioneller Nachrichten-Fluss*<br>
+![Message-Flow 01 Blue](../images/MsgFlow-01-blue.jpg)
+
 Da die eingangsseitig empfangenen einzeiligen Nachrichten unverändert
 weitergesendet werden an potentiell mehrere angeschlossene Clienten kann mit
 Hilfe von Serverkoppler-Bausteinen eine baumartige/kaskadenartige Vernetzung von
@@ -47,7 +51,6 @@ Hilfe von Serverkoppler-Bausteinen eine baumartige/kaskadenartige Vernetzung von
 sendet alles am Ausgang weiter was er am Eingang empfängt.) Es ist darauf zu
 achten, dass man keine Rückkopplung herstellt, zum Beispiel durch Verbinden mit
 dem falschen Socket.
-
 
 Zum Verbinden zweier Server wird aber in der Regel ein Switch oder eine
 Bridge benutzt.
@@ -87,5 +90,16 @@ auch ohne externe Datenquelle betrieben werden
 
 Damit sind die wesentlichen Elemente des Nachrichtenflusses skizziert. Alles
 weitere sind Details.
+
+## Optimaler Fluss
+
+Wenn der Output Client keinen Request stellen muss,
+weil er aktuell ist und den neuen Status berechnen kann wenn er eine einzeilige Nachricht empfängt,
+dann sieht das Bild so aus:
+
+*picture of streamlined message flow*<br>
+![Message-Flow 02 Blue](../images/MsgFlow-02-blue.jpg)
+
+In dieser Situation fließen pro Nachricht nur wenige Byte durch das System.
 
 Weiter zum [Nachrichtenplan](doc-msg-map.html).

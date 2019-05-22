@@ -15,9 +15,16 @@ Zuvor wurde bereits der Zieldurchgang von Bib 4 und Bib 6 erfasst.
 Wir befinden uns im Race 1, also in Wettfahrt 1 (**R1**).
 Bib 2 (Bugnummer 2) ist jetzt aktuell, weil sie zuletzt benutzt wurde.
 
+In Spalte Pts können Sie sehen, dass R2 einen Punkt zum Ergebnis beiträgt, für alle Teilnehmer.
+Das wird noch deutlicher wenn Sie in den Wettfahrt-Spalten Punkte anzeigen lassen anstellen von Zielpositionen. 
+Es ließe sich korrigieren indem man R2 deaktiviert oder löscht.
+
+Am besten ist es, wenn der event entsprechend zum Download vorbereitet wird, 
+so dass der Benutzer sofort startklar ist für die Eingabe der Zieldurchgänge, für das aktuelle Rennen.
+
 ## Externer Link
 
-[Start von FREO](https://federgraph.de/freo/index.html){: .start-btn }
+[Start FREO](https://federgraph.de/freo/index.html){: .start-btn }
 
 ## About FREO
 
