@@ -582,7 +582,7 @@ normale grafischer Oberfläche.
 </dd>
 
 <dt>Event Part</dt>
-<dd>Bezogen auf die Sportart Segeln (FleetRace) ist der Event Part der
+<dd>Bezogen auf die Sportart Segeln (fleet racing) ist der Event Part der
 sportartspezifische Teil, der die Ergebnisse der Serie von Wettfahrten (Regatta)
 berechnet.</dd>
 
@@ -659,7 +659,8 @@ Netzwerk an die statusbehaftete FR Server Applikation durchstellt.</dd>
 <dt>FR66 Web Sender</dt>
 <dd>Desktop Anwendung mit Website, die alle Anforderungen über tcp an die FR
 Serveranwendung durchstellt. Aus der Sicht der Anwendung FR ist es eine
-ausgelagerte Website. Aus der Sicht des Browsers ist FR66 ein Proxy.
+ausgelagerte Website. Aus der Sicht des Browsers ist FR66 ein Proxy
+bzw. ein Front End Web Server.
 </dd>
 
 <dt>Web Site</dt>
@@ -668,23 +669,23 @@ Bridge-Web, Widget-Web und Silverlight-Web.
 </dd>
 
 <dt>Server Bridge</dt>
-<dd>Die Bridge dient zur Synchronisierung von Daten zwischen Clienten und
-Server. Sie akzeptiert Verbindungen von einer Client Bridge. Sie verteilt neue
-Nachrichten an alle angeschlossenen Clienten. Die Server Bridge speichert Backup
-und Log für die Daten eines Events. Die Server Bridge kann in die Anwendung FR
-eigebettet sein.
+<dd>Die Bridge dient allgemein zur Synchronisierung von Daten zwischen Clienten und Server.
+Die Server Bridge akzeptiert Verbindungen von einer Client Bridge.
+Sie verteilt neue Nachrichten an alle angeschlossenen Clienten.
+Die Server Bridge speichert Backup und Log für die Daten eines Events.
+Die Server Bridge kann in die Anwendung FR eigebettet sein.
 </dd>
 
 <dt>Client Bridge</dt>
-<dd>Zur Verbindung mit einer Server Bridge. Ermöglicht dem Benutzer die Steuerung
-des Datenaustauschs mit den Operationen <b>Plugin</b>, <b>Plugout</b> und <b>Download</b>. Je nach
-Ausführung zusätzlich mit den Operationen <b>Upload</b> und <b>Synchronize</b>.
+<dd>Zur Verbindung mit einer Server Bridge.
+Ermöglicht dem Benutzer die Steuerung des Datenaustauschs mit den Operationen <b>Plugin</b>, <b>Plugout</b> und <b>Download</b>.
+Je nach Ausführung zusätzlich mit den Operationen <b>Upload</b> und <b>Synchronize</b>.
 </dd>
 
 <dt>Local Workspace</dt>
 <dd>Ermöglicht die Speicherung der Event Daten im lokalen Dateisystem.</dd>
 <dt>Remote Workspace</dt>
-<dd>Durch Umleitung/Virtualisierung von I/O Operationen kann der Workspace sich
+<dd>Durch Umleitung/Virtualisierung von I/O Operationen kann sich der Workspace
 auch hinter einem Web Service verbergen, und/oder alle Dateien können innerhalb
 der Datenbank abgelegt werden.</dd>
 
@@ -696,8 +697,8 @@ also Zeiten und Penalty-Zuweisungen.
 <dt>FR98 Result Client</dt>
 <dd>Ein Client zum Anschluss am FR TCP Output Socket. FR98 hat Verbindung zur FR
 Anwendung über TCP und HTTP. Über den Socket (tcp) wird FR98 benachrichtigt. Im
-eingebetteten Browser Control (http) kann eine Webseite aufgefrischt werden, die
-(zum Beispiel) von der FR Anwendung generiert wird.</dd>
+eingebetteten Browser Control (mit Anschluss über http) kann eine Webseite aufgefrischt werden,
+die (zum Beispiel) von der FR Anwendung generiert wird.</dd>
 
 <dt>Silverlight Web</dt>
 <dd>Über das Silverlight Web können die Silverlight Clienten abgerufen/gestartet

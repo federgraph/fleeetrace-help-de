@@ -6,7 +6,7 @@ title: Dokumente
 
 # Dokumente
 
-## FR (FleetRace)
+## FR (Fleetrace)
 
 Dokumentation rund um FR:
 

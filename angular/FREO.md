@@ -23,7 +23,7 @@ Es ließe sich korrigieren indem man R2 deaktiviert oder löscht.
 FR.*.W2.IsRacing=False // in anderen Angular apps gibt es dafür eventuell einen Icon Button
 ```
 
-Am besten ist es, wenn ein Download für den Event entsprechen vorbereitet wird, 
+Am besten ist es, wenn ein Download für den Event entsprechend vorbereitet wird, 
 so dass der Benutzer sofort loslegen kann, mit der Eingabe der Zieldurchgänge.
 
 ## Externer Link

@@ -8,7 +8,7 @@ title: Schnellstart
 
 ## Einleitung
 
-Wenn Sie die FleetRace Internetanwendung (FRIA) auf Ihrer Website einsetzen wollen, 
+Wenn Sie die Fleetrace Internetanwendung (FRIA) auf Ihrer Website einsetzen wollen, 
 dann müssen Sie natürlich die Daten bereitstellen. 
 Dieser Artikel gibt Ihnen einige Hinweise, 
 wie Sie sofort loslegen können. 

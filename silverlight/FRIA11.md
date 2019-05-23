@@ -25,4 +25,4 @@ Bei Definition von mehreren Zwischenzeiten (ITX) werden im Grid entsprechend vie
 Anhand der Rückstandszeiten können Sie den Verlauf des Rennens verfolgen.
 
 Bilder vom Fernsehen sind unschlagbar, Trackingsysteme immer noch ziemlich aufwendig, 
-und die FleetRace Internetanwendungen in Verbindung mit manueller Eingabe in Echtzeit eine gute Alternative.
+und die Fleetrace Internetanwendungen in Verbindung mit manueller Eingabe in Echtzeit eine gute Alternative.

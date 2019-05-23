@@ -13,7 +13,7 @@ und dann die Leertaste drücken oder Enter. (Auf dem Mac nur die Enter Taste).
 
 Die Nachricht enthält eine Zuweisung vom Typ RaceValue (RV) an Bib1 
 (Bug-Nummer 1) in W1 (Wettfahrt 1, hier ein deutscher Ausdruck!), bezogen auf 
-die anonyme Division (Bootsklasse *) im Namespace FR (FleetRace).
+die anonyme Division (Bootsklasse *) im Namespace FR (Fleetrace).
 
 Was Sie damit bezwecken ist die Eingabe des Zieldurchgangs für Bugnummer 1. 
 Wenn Sie die korrekte Zielposition für das Boot mitloggen, dann können Sie diese 

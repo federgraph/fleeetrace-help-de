@@ -15,7 +15,7 @@ Internet Applikationen zur Verfügung gestellt (FRIA). Die
 FRIA Applikationen sind als Silverlight Anwendungen ausgeführt.
 Sie dienen zur Präsentation von Regattaergebnissen.
 
-Die Silverlight Varianten von FleetRace lassen sich im Gegensatz
+Die Silverlight Varianten von Fleetrace lassen sich im Gegensatz
 zu den Desktopanwendungen live im Browser demonstrieren. Es sind
 zwei Demonstrationen online.
 
@@ -76,7 +76,7 @@ RiggVar Software beabsichtigt in Zukunft mit einem Designer zusammenzuarbeiten,
 um für konkrete Einsatzfälle die individuelle Note zu realisieren. 
 Die individuelle Note könnte neben dem Logo eines Vereins auch die Sponsorenlogos enthalten.
 
-Die RiggVar FleetRace Internet Applikationen werden einzeln für jede Site lizensiert, 
+Die Fleetrace Internet Applikationen werden einzeln für jede Site lizensiert, 
 auf der sie zum Einsatz kommen. 
 Dabei wird das jeweilige Design eingesetzt und neu kompiliert.
 

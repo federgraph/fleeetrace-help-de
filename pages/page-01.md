@@ -8,7 +8,7 @@ title: Übersicht
 
 ## Abstrakt
 
-FleetRace (FR) ist ein kompaktes Timing- und Auswertesystem für den 
+FleerRace (FR) ist ein kompaktes Timing- und Auswertesystem für den 
 Segelsport. Es wurde aus einer Hand konzipiert für die Verwendung gleichermaßen 
 durch Teilnehmer und Veranstalter. Die Idee ist, dass die Ergebnisse in 
 elektronischer Form zur Verfügung stehen und jeder Knotenpunkt rechnet. Damit 

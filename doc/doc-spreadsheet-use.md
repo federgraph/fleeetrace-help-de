@@ -74,7 +74,7 @@ zur Verfügung stehen.
 
 ### Flottenzugehörigkeit
 
-FR unterstützt alle Anforderungen, die für ein offizielles FleetRace in den
+FR unterstützt alle Anforderungen, die für ein offizielles Fleetrace in den
 olympischen Klassen gestellt werden. Darin enthalten ist das Segeln in Gruppen
 (Fleet) inklusive MedalRace. Was das Programm aber wegen veränderlicher
 Spezifikation planmäßig nicht macht, ist die Berechnung der Flottenzugehörigkeit

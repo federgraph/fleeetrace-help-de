@@ -140,7 +140,7 @@ Mit einem signierten `.msi` Installer Paket wäre es einfacher gewesen, und es g
 
 Heute wird empfohlen, die Anwendungen als `.appx` Paket im Microsoft Store zu veröffentlichen, wobei Microsoft die Anwendungen prüfen und signieren wird.
 
-Denn wird die App am neuen Standard-Ort installiert, irgendwo, es ist möglich herauszufinden wo. Das macht auch alles Sinn!
+Dann wird die App am neuen Standard-Ort installiert, irgendwo; es ist möglich herauszufinden wo. Das macht auch alles Sinn!
 
 ## Fazit
 
@@ -149,14 +149,12 @@ Denn wird die App am neuen Standard-Ort installiert, irgendwo, es ist möglich h
 Ansonsten gibt es offene Fragen, darunter die Frage nach dem vertretbaren Aufwand, und die Frage der Flexibilität.
 
 Es kann immer noch sinnvoll sein:
-- einen Ordner a`D:\Fleetrace\` anzulegen
+- einen Ordner `D:\Fleetrace\` anzulegen
 - eine zip Datei mit FR01 dort zu entpacken
 - eventuell sogar zusammen mit Beispieldaten
 
 Die Hilfe-Datei ist jetzt hier.
 
 > [Angular FR](../angular/FREO.html) ist das neue FR01, welches nicht installiert werden muss.
-
-Mit FR69 ist es etwas komplizierter.
 
 [Zurück zum Blog Index](blog-index.html)

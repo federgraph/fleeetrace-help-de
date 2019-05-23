@@ -10,11 +10,11 @@ Ich habe den Quelletext von FR01 zu GitHub hochgeladen.
 Die Lizenz ist GPL 3.0.
 
 ```
- 2019
--2006
------
- 0013
- ====
+ 2019   2019
+-2012  -2006
+ ----   ----
+  007     13
+ ====   ====
 ```
 
 Jetzt müssen Sie selbst kompilieren.

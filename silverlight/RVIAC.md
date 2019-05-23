@@ -13,7 +13,7 @@ RVIAC ist die *kombinierte* Silverlight Demoanwendung. Es ist technisch eine
 sogenannte Silverlight Navigationsanwendung. Das bedeutet, dass es mehrere
 Seiten/Tabs gibt, die der Benutzer anklicken kann. RVIAC enthält die folgenden Seiten:
 - SKIA, demonstriert den elektronischen Zirkel in unterhaltsamer Weise
-- FRIA, die Demo für das FleetRace Projekt
+- FRIA, die Demo für das Fleetrace Projekt
 - RGIA, die Silverlight-Variante des Rigg-Applets
 - About, Seite mit einem kurzen Hilfetext.
 - Slides, eine Seite mit verschiedenen Vektorgrafiken zum Thema Rigg
