@@ -19,8 +19,12 @@ In Spalte Pts können Sie sehen, dass R2 einen Punkt zum Ergebnis beiträgt, fü
 Das wird noch deutlicher wenn Sie in den Wettfahrt-Spalten Punkte anzeigen lassen anstellen von Zielpositionen. 
 Es ließe sich korrigieren indem man R2 deaktiviert oder löscht.
 
-Am besten ist es, wenn der event entsprechend zum Download vorbereitet wird, 
-so dass der Benutzer sofort startklar ist für die Eingabe der Zieldurchgänge, für das aktuelle Rennen.
+```
+FR.*.W2.IsRacing=False // in anderen Angular apps gibt es dafür eventuell einen Icon Button
+```
+
+Am besten ist es, wenn ein Download für den Event entsprechen vorbereitet wird, 
+so dass der Benutzer sofort loslegen kann, mit der Eingabe der Zieldurchgänge.
 
 ## Externer Link
 
